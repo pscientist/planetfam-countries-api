@@ -1,0 +1,20 @@
+[
+  {
+    "code": "NZ",
+    "name": "New Zealand",
+    "description": "Island nation in the South Pacific known for stunning landscapes and Māori culture.",
+    "population": 5300000,
+    "land_area_km2": 268021,
+    "languages": ["English", "Māori", "NZ Sign Language"],
+    "gdp_usd": 249000000000
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "description": "The world’s sixth-largest country, known for beaches, deserts, and unique wildlife.",
+    "population": 26200000,
+    "land_area_km2": 7692024,
+    "languages": ["English"],
+    "gdp_usd": 1690000000000
+  }
+]

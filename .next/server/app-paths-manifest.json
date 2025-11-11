@@ -1,0 +1,5 @@
+{
+  "/api/countries/[code]/route": "app/api/countries/[code]/route.js",
+  "/api/countries/route": "app/api/countries/route.js",
+  "/_not-found/page": "app/_not-found/page.js"
+}
